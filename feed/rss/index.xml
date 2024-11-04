@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirigiendo...</title>
+		<meta http-equiv="refresh" content="0;url=https://salinas-armendariz.com/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://salinas-armendariz.com/feed/";
+		</script>
+
+		<p>Estás siendo redirigido a <a href="https://salinas-armendariz.com/feed/">https://salinas-armendariz.com/feed/</a></p>
+	</body>
+</html>
