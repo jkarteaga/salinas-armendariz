@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>iritzia - David Salinas-Armendariz</title>
-	<atom:link href="https://salinas-armendariz.com/eu/category/iritzia/feed/" rel="self" type="application/rss+xml" />
+	<title>david - David Salinas-Armendariz</title>
+	<atom:link href="https://salinas-armendariz.com/eu/author/david/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salinas-armendariz.com/</link>
 	<description></description>
 	<lastBuildDate>Sun, 03 Nov 2024 15:54:56 +0000</lastBuildDate>
