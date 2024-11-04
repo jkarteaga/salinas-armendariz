@@ -1,35 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?><feed
-	xmlns="http://www.w3.org/2005/Atom"
-	xmlns:thr="http://purl.org/syndication/thread/1.0"
-	xml:lang="es"
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:admin="http://webns.net/mvcb/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	>
-	<title type="text">David Salinas-Armendariz</title>
-	<subtitle type="text"></subtitle>
+<channel rdf:about="https://salinas-armendariz.com/">
+	<title>David Salinas-Armendariz</title>
+	<link>https://salinas-armendariz.com/</link>
+	<description></description>
+	<dc:date>2024-11-03T15:48:41Z	</dc:date>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+	<admin:generatorAgent rdf:resource="https://wordpress.org/?v=6.6.2" />
+	<items>
+		<rdf:Seq>
+					<rdf:li rdf:resource="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo"/>
+				</rdf:Seq>
+	</items>
+</channel>
+<item rdf:about="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo">
+	<title>Así no se combate el racismo</title>
+	<link>https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo</link>
 
-	<updated>2024-11-03T15:48:41Z</updated>
+	<dc:creator><![CDATA[david]]></dc:creator>
+	<dc:date>2024-11-03T15:45:11Z</dc:date>
+			<dc:subject><![CDATA[opinion]]></dc:subject>
 
-	<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/" />
-	<id>https://salinas-armendariz.com/feed/atom/</id>
-	<link rel="self" type="application/atom+xml" href="https://salinas-armendariz.com/feed/atom/" />
-
-	<generator uri="https://wordpress.org/" version="6.6.2">WordPress</generator>
-	<entry>
-		<author>
-			<name>david</name>
-							<uri>https://salinas-armendariz.com/</uri>
-						</author>
-
-		<title type="html"><![CDATA[Así no se combate el racismo]]></title>
-		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo" />
-
-		<id>https://salinas-armendariz.com/?p=2140</id>
-		<updated>2024-11-03T15:48:41Z</updated>
-		<published>2024-11-03T15:45:11Z</published>
-		<category scheme="https://salinas-armendariz.com/" term="opinion" />
-		<summary type="html"><![CDATA[<p>En los últimos días ha habido novedades en el caso de los cánticos racistas contra Nico Williams en el Metropolitano. </p>
-<p>The post <a href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/">Así no se combate el racismo</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></summary>
-
-					<content type="html" xml:base="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo"><![CDATA[<figure class="wp-block-image size-large"><img decoding="async" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_%28168%29.jpg" alt="Nico Williams" style="aspect-ratio:1;object-fit:cover"/><figcaption class="wp-element-caption">Nico Williams- Foto de Maider Goikoetxea en la<a href="https://commons.wikimedia.org/wiki/File:ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_(168).jpg" data-type="link" data-id="https://commons.wikimedia.org/wiki/File:ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_(168).jpg"> wikipedia</a></figcaption></figure>
+			<description><![CDATA[<p>En los últimos días ha habido novedades en el caso de los cánticos racistas contra Nico Williams en el Metropolitano. </p>
+<p>The post <a href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/">Así no se combate el racismo</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></description>
+		<content:encoded><![CDATA[<figure class="wp-block-image size-large"><img decoding="async" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_%28168%29.jpg" alt="Nico Williams" style="aspect-ratio:1;object-fit:cover"/><figcaption class="wp-element-caption">Nico Williams- Foto de Maider Goikoetxea en la<a href="https://commons.wikimedia.org/wiki/File:ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_(168).jpg" data-type="link" data-id="https://commons.wikimedia.org/wiki/File:ATHLETIC-OSASUNA_SEMIFINAL._MAIDER_GOIKOETXEA_(168).jpg"> wikipedia</a></figcaption></figure>
 
 
 
@@ -57,10 +61,7 @@
 
 
 
-<p>No puede ser que la actuación punitiva sea diferente en función de quién sea el responsable de la ofensa y quién el ofendido. Además de una general permisividad, se consolida la percepción de desigualdad de trato.&nbsp;<strong>Los responsables deportivos no hacen sino repetir, con rostro compungido y boca pequeña, que hay que desterrar estas conductas, pero luego no ponen el cascabel al gato.&nbsp;</strong>No se están cumpliendo los principios y previsiones de flamantes leyes, tan ampulosas como orilladas por los llamados a aplicarlas. Sean clubes, federaciones o administraciones. Así no acabamos con el racismo ni con la intolerancia en el deporte.</p><p>The post <a href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/">Así no se combate el racismo</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
-		
-					<link rel="replies" type="text/html" href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=asi-no-se-combate-el-racismo#comments" thr:count="0" />
-			<link rel="replies" type="application/atom+xml" href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/feed/atom/" thr:count="0" />
-			<thr:total>0</thr:total>
-			</entry>
-	</feed>
+<p>No puede ser que la actuación punitiva sea diferente en función de quién sea el responsable de la ofensa y quién el ofendido. Además de una general permisividad, se consolida la percepción de desigualdad de trato.&nbsp;<strong>Los responsables deportivos no hacen sino repetir, con rostro compungido y boca pequeña, que hay que desterrar estas conductas, pero luego no ponen el cascabel al gato.&nbsp;</strong>No se están cumpliendo los principios y previsiones de flamantes leyes, tan ampulosas como orilladas por los llamados a aplicarlas. Sean clubes, federaciones o administraciones. Así no acabamos con el racismo ni con la intolerancia en el deporte.</p><p>The post <a href="https://salinas-armendariz.com/asi-no-se-combate-el-racismo/">Así no se combate el racismo</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content:encoded>
+	
+	</item>
+</rdf:RDF>
