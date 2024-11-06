@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.1 dinámicamente el 11/06/2024 a las 12:25 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.1 dinámicamente el 11/06/2024 a las 10:07 pm - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -9,7 +9,7 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-11-06T11:24:37+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-06T21:06:40+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/category-sitemap.xml]]></loc>
@@ -17,6 +17,6 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/language-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-11-06T11:24:37+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-06T21:06:40+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
