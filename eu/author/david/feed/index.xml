@@ -12,7 +12,7 @@
 	<atom:link href="https://salinas-armendariz.com/eu/author/david/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salinas-armendariz.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Nov 2024 21:28:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2024 17:43:53 +0000</lastBuildDate>
 	<language>eu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,26 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Programa</title>
+		<link>https://salinas-armendariz.com/eu/programa-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=programa-2</link>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 08 Nov 2024 17:30:55 +0000</pubDate>
+				<category><![CDATA[Dokumentua]]></category>
+		<guid isPermaLink="false">https://salinas-armendariz.com/?p=2381</guid>
+
+					<description><![CDATA[<p>"Betiko Alderdia, Aurrera Begira!" David Salinas-Armendariz-ren programa</p>
+<p>The post <a href="https://salinas-armendariz.com/eu/programa-2/">Programa</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>&#8220;Betiko Alderdia, Aurrera Begira!&#8221; David Salinas-Armendariz-ren programa</p>
+
+
+
+<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview"  class="wp-block-file__embed" data="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Betiko Alderdia Aurrera begira- programa David Salinas Armendariz  kapsulatzea."></object><a id="wp-block-file--media-47ffef73-d7e6-40ad-bc18-e1c58399a72d" href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1-1.pdf">Betiko Alderdia Aurrera begira- programa David Salinas Armendariz </a><a href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1-1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-47ffef73-d7e6-40ad-bc18-e1c58399a72d">Dokumentua Deskargatu</a></div><p>The post <a href="https://salinas-armendariz.com/eu/programa-2/">Programa</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Informazio-hitzaldiak</title>
 		<link>https://salinas-armendariz.com/eu/informazio-hitzaldiak/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=informazio-hitzaldiak</link>
 		
@@ -160,7 +180,6 @@
 		<dc:creator><![CDATA[David]]></dc:creator>
 		<pubDate>Thu, 07 Nov 2024 20:41:19 +0000</pubDate>
 				<category><![CDATA[Bideoa]]></category>
-		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://salinas-armendariz.com/?p=2350</guid>
 
 					<description><![CDATA[<p>Gustatuko litzaidake eztabaida bat egitea</p>

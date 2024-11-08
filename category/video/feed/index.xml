@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Video - David Salinas-Armendariz</title>
+	<atom:link href="https://salinas-armendariz.com/category/video/feed/" rel="self" type="application/rss+xml" />
+	<link>https://salinas-armendariz.com/</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Nov 2024 05:47:33 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-favicon-david-salinas-armendariz-32x32.png</url>
+	<title>Video - David Salinas-Armendariz</title>
+	<link>https://salinas-armendariz.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Debate</title>
+		<link>https://salinas-armendariz.com/debate/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=debate</link>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 07 Nov 2024 20:34:40 +0000</pubDate>
+				<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://salinas-armendariz.com/?p=2347</guid>
+
+					<description><![CDATA[<p>Me gustaria celebrar un debate</p>
+<p>The post <a href="https://salinas-armendariz.com/debate/">Debate</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></description>
+										<content:encoded><![CDATA[<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="David Salinas-Armendariz: debate" width="720" height="405" src="https://www.youtube.com/embed/Zs2u2mXSsA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Me gustaría un debate</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Selecciones oficiales</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="David Salinas-Armendariz: Euskal Selekzioak" width="720" height="405" src="https://www.youtube.com/embed/WEbva6sYzgI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Euskal Selekzioak</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Zazpiak Bat</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="David Salinas-Armendariz:  Zazpiak bat" width="720" height="405" src="https://www.youtube.com/embed/C3gLSGfjh3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Zazpiak bat</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Democracia Participativa</h2>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="David Salinas-Armendariz afiliados" width="720" height="405" src="https://www.youtube.com/embed/yIPU5uBURpc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Democracia participativa</figcaption></figure><p>The post <a href="https://salinas-armendariz.com/debate/">Debate</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -12,7 +12,7 @@
 	<atom:link href="https://salinas-armendariz.com/eu/category/uncategorized-eu/feed/" rel="self" type="application/rss+xml" />
 	<link>https://salinas-armendariz.com/</link>
 	<description></description>
-	<lastBuildDate>Thu, 07 Nov 2024 21:28:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Nov 2024 18:00:59 +0000</lastBuildDate>
 	<language>eu</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,54 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Eztabaida</title>
-		<link>https://salinas-armendariz.com/eu/eztabaida/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=eztabaida</link>
-		
-		<dc:creator><![CDATA[David]]></dc:creator>
-		<pubDate>Thu, 07 Nov 2024 20:41:19 +0000</pubDate>
-				<category><![CDATA[Bideoa]]></category>
-		<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://salinas-armendariz.com/?p=2350</guid>
-
-					<description><![CDATA[<p>Gustatuko litzaidake eztabaida bat egitea</p>
-<p>The post <a href="https://salinas-armendariz.com/eu/eztabaida/">Eztabaida</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></description>
-										<content:encoded><![CDATA[<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="David Salinas-Armendariz: debate" width="720" height="405" src="https://www.youtube.com/embed/Zs2u2mXSsA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading">Euskal Selekzioak</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="David Salinas-Armendariz: Euskal Selekzioak" width="720" height="405" src="https://www.youtube.com/embed/WEbva6sYzgI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading">Zazpiak bat</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="David Salinas-Armendariz:  Zazpiak bat" width="720" height="405" src="https://www.youtube.com/embed/C3gLSGfjh3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading"><strong>Demokrazia parte-hartzaile</strong>a</h2>
-
-
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="David Salinas-Armendariz afiliados" width="720" height="405" src="https://www.youtube.com/embed/yIPU5uBURpc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure><p>The post <a href="https://salinas-armendariz.com/eu/eztabaida/">Eztabaida</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content:encoded>
-					
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
