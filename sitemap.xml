@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/07/2024 a las 11:53 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/08/2024 a las 6:33 am - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=root"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-11-07T21:28:22+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-07T23:02:50+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/page-sitemap.xml]]></loc>
@@ -13,10 +13,10 @@
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-11-07T21:28:22+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-07T23:02:50+00:00]]></lastmod>
 	</sitemap>
 	<sitemap>
 		<loc><![CDATA[https://salinas-armendariz.com/language-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-11-07T21:28:22+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-07T23:02:50+00:00]]></lastmod>
 	</sitemap>
 </sitemapindex>
