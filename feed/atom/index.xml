@@ -6,7 +6,7 @@
 	<title type="text">David Salinas-Armendariz</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-11-08T05:47:33Z</updated>
+	<updated>2024-11-08T16:51:30Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/" />
 	<id>https://salinas-armendariz.com/feed/atom/</id>
@@ -15,6 +15,24 @@
 	<generator uri="https://wordpress.org/" version="6.6.2">WordPress</generator>
 <icon>https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-favicon-david-salinas-armendariz-32x32.png</icon>
 	<entry>
+		<author>
+			<name>David</name>
+							<uri>https://salinas-armendariz.com/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Programa]]></title>
+		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/programa/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=programa" />
+
+		<id>https://salinas-armendariz.com/?p=2371</id>
+		<updated>2024-11-08T16:51:30Z</updated>
+		<published>2024-11-08T16:51:27Z</published>
+		<category scheme="https://salinas-armendariz.com/" term="Uncategorized" />
+		<summary type="html"><![CDATA[]]></summary>
+
+					<content type="html" xml:base="https://salinas-armendariz.com/programa/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=programa"><![CDATA[<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview"  class="wp-block-file__embed" data="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incrustado de Betiko Alderdia Aurrera begira- programa David Salinas Armendariz ."></object><a id="wp-block-file--media-84188381-0267-47f8-aada-3998a9986f84" href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf">Betiko Alderdia Aurrera begira- programa David Salinas Armendariz </a><a href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-84188381-0267-47f8-aada-3998a9986f84">Descargar Programa</a></div><p>The post <a href="https://salinas-armendariz.com/programa/">Programa</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
+		
+			</entry>
+		<entry>
 		<author>
 			<name>David</name>
 							<uri>https://salinas-armendariz.com/</uri>
