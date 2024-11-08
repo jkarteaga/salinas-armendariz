@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.1 dinámicamente el 11/07/2024 a las 11:14 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/08/2024 a las 12:00 am - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=category"?>
 <urlset
@@ -9,7 +9,7 @@
 >
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/category/uncategorized-eu/]]></loc>
-		<lastmod><![CDATA[2024-11-07T21:28:22+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-07T22:58:23+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
@@ -45,7 +45,7 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/category/bideoa/]]></loc>
-		<lastmod><![CDATA[2024-11-07T21:28:22+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-07T22:58:23+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
