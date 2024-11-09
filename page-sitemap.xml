@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/09/2024 a las 8:40 am - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/09/2024 a las 4:00 pm - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -9,7 +9,7 @@
 >
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/]]></loc>
-		<lastmod><![CDATA[2024-11-07T16:23:42+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-09T14:12:20+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 		<image:image>
@@ -17,6 +17,18 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/p020_f01-removebg-preview.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://salinas-armendariz.com/eu/hasiera/]]></loc>
+		<lastmod><![CDATA[2024-11-09T14:15:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2021/04/Home-1.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-p020_f01-removebg-preview-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -41,18 +53,6 @@
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/email.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/hasiera/]]></loc>
-		<lastmod><![CDATA[2024-11-07T16:23:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2021/04/Home-1.jpeg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-p020_f01-removebg-preview-1.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
