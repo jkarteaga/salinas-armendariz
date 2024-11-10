@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/09/2024 a las 3:58 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/10/2024 a las 8:36 am - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -12,102 +12,6 @@
 		<lastmod><![CDATA[2024-11-04T19:48:39+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/charlas-informativas/]]></loc>
-		<lastmod><![CDATA[2024-11-09T14:07:13+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Batzoki-Errekalde.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14.webp]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/informazio-hitzaldiak/]]></loc>
-		<lastmod><![CDATA[2024-11-09T14:06:17+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Batzoki-Errekalde.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet-1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango-1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12-1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13-1.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-1.webp]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda-1.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/programa/]]></loc>
-		<lastmod><![CDATA[2024-11-08T19:27:59+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-1.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/programa-2/]]></loc>
-		<lastmod><![CDATA[2024-11-08T19:25:43+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-1.jpg]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/debate/]]></loc>
-		<lastmod><![CDATA[2024-11-08T05:47:33+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/debate.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/eztabaida/]]></loc>
-		<lastmod><![CDATA[2024-11-07T23:02:50+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/debate.png]]></image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/solasaldia-euskal-politiken/]]></loc>
