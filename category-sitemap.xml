@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/09/2024 a las 4:01 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/10/2024 a las 9:19 am - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=category"?>
 <urlset
@@ -21,37 +21,13 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/category/charla/]]></loc>
-		<lastmod><![CDATA[2024-11-09T14:07:13+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-06T05:02:07+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/category/hitzaldia/]]></loc>
-		<lastmod><![CDATA[2024-11-09T14:06:17+00:00]]></lastmod>
-		<changefreq><![CDATA[monthly]]></changefreq>
-		<priority><![CDATA[0.3]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/category/video/]]></loc>
-		<lastmod><![CDATA[2024-11-08T05:47:33+00:00]]></lastmod>
-		<changefreq><![CDATA[monthly]]></changefreq>
-		<priority><![CDATA[0.3]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/category/bideoa/]]></loc>
-		<lastmod><![CDATA[2024-11-07T23:02:50+00:00]]></lastmod>
-		<changefreq><![CDATA[monthly]]></changefreq>
-		<priority><![CDATA[0.3]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/category/documentos/]]></loc>
-		<lastmod><![CDATA[2024-11-08T19:27:59+00:00]]></lastmod>
-		<changefreq><![CDATA[monthly]]></changefreq>
-		<priority><![CDATA[0.3]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[https://salinas-armendariz.com/eu/category/dokumentua/]]></loc>
-		<lastmod><![CDATA[2024-11-08T19:25:43+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-06T05:02:27+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
