@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/11/2024 a las 4:28 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/14/2024 a las 8:45 pm - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -14,16 +14,34 @@
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
+		<loc><![CDATA[https://salinas-armendariz.com/eu/eredua/]]></loc>
+		<lastmod><![CDATA[2024-11-14T19:43:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://salinas-armendariz.com/ejemplo/]]></loc>
+		<lastmod><![CDATA[2024-11-14T19:42:43+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/aldapan-gora-2/]]></loc>
 		<lastmod><![CDATA[2024-11-11T15:27:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/aldapan-gora.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/aldapan-gora/]]></loc>
 		<lastmod><![CDATA[2024-11-11T15:24:31+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/aldapan-gora.jpg]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/debate/]]></loc>

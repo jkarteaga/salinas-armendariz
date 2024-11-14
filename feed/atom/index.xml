@@ -6,13 +6,13 @@
 	<title type="text">David Salinas-Armendariz</title>
 	<subtitle type="text"></subtitle>
 
-	<updated>2024-11-09T14:07:13Z</updated>
+	<updated>2024-11-14T19:42:43Z</updated>
 
 	<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/" />
 	<id>https://salinas-armendariz.com/feed/atom/</id>
 	<link rel="self" type="application/atom+xml" href="https://salinas-armendariz.com/feed/atom/" />
 
-	<generator uri="https://wordpress.org/" version="6.6.2">WordPress</generator>
+	<generator uri="https://wordpress.org/" version="6.7">WordPress</generator>
 <icon>https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-favicon-david-salinas-armendariz-32x32.png</icon>
 	<entry>
 		<author>
@@ -20,17 +20,16 @@
 							<uri>https://salinas-armendariz.com/</uri>
 						</author>
 
-		<title type="html"><![CDATA[Programa]]></title>
-		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/programa/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=programa" />
+		<title type="html"><![CDATA[Ejemplo]]></title>
+		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/ejemplo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ejemplo" />
 
-		<id>https://salinas-armendariz.com/?p=2371</id>
-		<updated>2024-11-08T19:27:59Z</updated>
-		<published>2024-11-08T16:51:27Z</published>
-		<category scheme="https://salinas-armendariz.com/" term="Documentos" />
-		<summary type="html"><![CDATA[<p>Programa "Betiko Alderdia, Aurrera Begira!" De David Salinas-Armendariz.</p>
-<p>The post <a href="https://salinas-armendariz.com/programa/">Programa</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></summary>
+		<id>https://salinas-armendariz.com/?p=2448</id>
+		<updated>2024-11-14T19:42:43Z</updated>
+		<published>2024-11-14T19:42:21Z</published>
+		<category scheme="https://salinas-armendariz.com/" term="opinion" />
+		<summary type="html"><![CDATA[]]></summary>
 
-					<content type="html" xml:base="https://salinas-armendariz.com/programa/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=programa"><![CDATA[<div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview"  class="wp-block-file__embed" data="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incrustado de Betiko Alderdia Aurrera begira- programa David Salinas Armendariz ."></object><a id="wp-block-file--media-84188381-0267-47f8-aada-3998a9986f84" href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf" target="_blank" rel="noreferrer noopener">Betiko Alderdia Aurrera begira- programa David Salinas Armendariz </a><a href="https://salinas-armendariz.com/wp-content/uploads/2024/11/Betiko-Alderdia-Aurrera-begira-programa-David-Salinas-Armendariz-1.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-84188381-0267-47f8-aada-3998a9986f84">Descargar Programa</a></div><p>The post <a href="https://salinas-armendariz.com/programa/">Programa</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
+					<content type="html" xml:base="https://salinas-armendariz.com/ejemplo/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=ejemplo"><![CDATA[<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="460" height="1024" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/miren-arzallluz-460x1024.jpeg" alt="miren arzalluz" class="wp-image-2449" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/miren-arzallluz-460x1024.jpeg 460w, https://salinas-armendariz.com/wp-content/uploads/2024/11/miren-arzallluz-135x300.jpeg 135w, https://salinas-armendariz.com/wp-content/uploads/2024/11/miren-arzallluz-690x1536.jpeg 690w, https://salinas-armendariz.com/wp-content/uploads/2024/11/miren-arzallluz.jpeg 719w" sizes="(max-width: 460px) 100vw, 460px" /></figure><p>The post <a href="https://salinas-armendariz.com/ejemplo/">Ejemplo</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
 		
 			</entry>
 		<entry>
@@ -39,217 +38,31 @@
 							<uri>https://salinas-armendariz.com/</uri>
 						</author>
 
-		<title type="html"><![CDATA[Charlas informativas]]></title>
-		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/charlas-informativas/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=charlas-informativas" />
+		<title type="html"><![CDATA[Aldapan Gora]]></title>
+		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/aldapan-gora/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=aldapan-gora" />
 
-		<id>https://salinas-armendariz.com/?p=2352</id>
-		<updated>2024-11-09T14:07:13Z</updated>
-		<published>2024-11-07T21:09:40Z</published>
-		<category scheme="https://salinas-armendariz.com/" term="Charla" />
-		<summary type="html"><![CDATA[<p>Los próximos días se celebrarán Charlas informativas para afiliados a EAJ-PNV en los siguientes batzokis: 🟢Sabado 09 de Noviembre: BILBAO- IBAI EDER 12:00🟢Domingo 10 de Noviembre: Durango 11:00🟢Lunes 11 de Noviembre: BILBAO Errekalde 19:00🟢Martes 12...</p>
-<p>The post <a href="https://salinas-armendariz.com/charlas-informativas/">Charlas informativas</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></summary>
+		<id>https://salinas-armendariz.com/?p=2441</id>
+		<updated>2024-11-11T15:24:31Z</updated>
+		<published>2024-11-11T15:24:31Z</published>
+		<category scheme="https://salinas-armendariz.com/" term="opinion" />
+		<summary type="html"><![CDATA[<p>Hoy me apetece compartir esta canción de Huntza.</p>
+<p>The post <a href="https://salinas-armendariz.com/aldapan-gora/">Aldapan Gora</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></summary>
 
-					<content type="html" xml:base="https://salinas-armendariz.com/charlas-informativas/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=charlas-informativas"><![CDATA[<p>Los próximos días se celebrarán Charlas informativas <strong>para afiliados a EAJ-PNV</strong> en los siguientes batzokis:</p>
+					<content type="html" xml:base="https://salinas-armendariz.com/aldapan-gora/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=aldapan-gora"><![CDATA[<p>Hoy me apetecía compartir esta <strong>canción de Huntza</strong>.</p>
 
 
 
-<p><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Sabado 09 de Noviembre: BILBAO- IBAI EDER 12:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Domingo 10 de Noviembre: Durango 11:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Lunes 11 de Noviembre: BILBAO Errekalde 19:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Martes 12 de Noviembre: Portugalete 19:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Miercoles 13 de Noviembre: BILBAO Abando 19:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Jueves 14 de Noviembre: Getxo Ondarreta 19:45<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Viernes 15 de Noviembre: Gernika 19:00<br><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f7e2.png" alt="🟢" class="wp-smiley" style="height: 1em; max-height: 1em;" />Lunes 18 de Noviembre: Balmaseda 19:00</p>
+<p><br></p>
 
 
 
-<div class="wp-block-kadence-spacer aligncenter kt-block-spacer-2352_12c2bd-d6"><div class="kt-block-spacer kt-block-spacer-halign-center"><hr class="kt-divider"/></div></div>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="HUNTZA &quot;Aldapan gora&quot; bideoklipa" width="720" height="405" src="https://www.youtube.com/embed/LRaeakNECr8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
 
 
 
-<h2 class="wp-block-heading">Bilbao: IBAI EDER</h2>
-
-
-
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet-1024x721.jpg" alt="Ibai Eder" class="wp-image-2401" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet-768x541.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Ibai-Edet.jpg 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_f57fb5-a0 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_5edc61-3e"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Batzoki Ibai Eder<br></span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_8218f5-5c"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Sabado 09 de Noviembre a las 12:00</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_be19fb-4b"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Batzoki Ibai Eder<br>Helbidea: Ibaialde Kalea, 1, Ibaiondo, 48003 Bilbo, Bizkaia<br>Google Maps <a href="https://g.co/kgs/zHgqrRq" target="_blank" rel="noopener" title="">https://g.co/kgs/zHgqrRq</a></span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Durango</h2>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango-1024x721.jpg" alt="Durango" class="wp-image-2402" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango-768x541.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Durango.jpg 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p></p>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_29d86e-15 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_260dc6-6d"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Durangoko Batzokia</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_449dbe-e6"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Domingo 10 de Noviembre a las 11:00</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_9fd3de-82"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Helbidea: Zumalakarregi Kalea, 6, 48200 Durango, Bizkaia<br>Google Maps <a href="https://g.co/kgs/kGRQPWu" target="_blank" rel="noopener" title="">https://g.co/kgs/kGRQPWu</a></span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Bilbao: Errekalde</h2>
-
-
-
-<figure class="wp-block-image size-full"><img decoding="async" width="680" height="479" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Batzoki-Errekalde.jpg" alt="David Salinas Armendariz Batzoki Errekalde" class="wp-image-2354" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Batzoki-Errekalde.jpg 680w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Batzoki-Errekalde-300x211.jpg 300w" sizes="(max-width: 680px) 100vw, 680px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_0ac3b4-41 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_658d3b-52"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text"><strong>Errekaldeko Batzokia &#8211; Batzoki de Rekalde EAJ/PNV</strong></span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_fc2eca-f6"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Lunes 11 de Noviembre a las 19:00<strong><br></strong></span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_a5e5e2-e8"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text"> Salazar Jeneralaren Kalea, 13, Errekalde, 48012 Bilbo, Bizkaia<br>Google Maps: <a href="https://g.co/kgs/XCDYw6J" target="_blank" rel="noopener" title="">https://g.co/kgs/XCDYw6J</a></span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Portugalete</h2>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12-1024x721.jpg" alt="Portugalete" class="wp-image-2403" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12-768x541.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Portugalete-12.jpg 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_efdfca-06 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_d667f6-6f"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text"><strong>Portugaletko Batzokia &#8211; Batzoki De Portugalete<br></strong></span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_c68185-aa"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Martes 12 de de Noviembre a las 19:00</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_0479d0-d3"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Kalea Casilda, Iturrizar, 1, 48920 Portugalete, Biscay<br>Google Maps<br><a href="https://g.co/kgs/QcLRgdu" target="_blank" rel="noopener" title="">https://g.co/kgs/QcLRgdu</a></span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Bilbao: Abando</h2>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13-1024x721.jpg" alt="Abando" class="wp-image-2404" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13-768x541.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Abando-13.jpg 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_89d2a3-38 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_23193b-1b"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Abandoko Batzokia &#8211; Batzoki de Abando</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_289f8b-c3"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Miércoles 13 de Noviembre, a las 19:00</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_222918-4b"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Henao Kalea, 33, Abando, 48009 Bilbo, Bizkaia<br>Google Maps <a href="https://g.co/kgs/zqokZZ1">https://g.co/kgs/zqokZZ1</a></span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Getxo: Ondarreta</h2>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="724" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-1024x724.webp" alt="David Ondarreta" class="wp-image-2418" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-1024x724.webp 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-300x212.webp 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-768x543.webp 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14-1536x1086.webp 1536w, https://salinas-armendariz.com/wp-content/uploads/2024/11/David-Ondarreta-14.webp 1684w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_49a07a-0f kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_e36745-61"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Ondarretako Batzokia-Batzoki de Ondarreta</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_eaa0ff-16"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Jueves 14 de Noviembre, a las 19:45</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_926753-28"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Bidebarri Kalea, 4, 48930 Getxo, Biscay<br>Google Maps https://g.co/kgs/XARhyv4</span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Gernika</h2>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia-1024x721.jpg" alt="David Salinas Armendariz Gernika" class="wp-image-2355" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia-768x540.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gernikako-Batzokia.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_10b8b8-88 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_f56f24-e0"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Gernikako Batzokia</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_4b55a0-0a"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Viernes 15 de Noviembre a las 19:00</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_135405-43"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Carlos Gangoiti Kalea, 7, 48300 Gernika-Lumo, Bizkaia<br>Google Maps https://g.co/kgs/y4gHx6q</span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Balmaseda</h2>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="721" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda-1024x721.jpg" alt="" class="wp-image-2405" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda-1024x721.jpg 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda-300x211.jpg 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda-768x541.jpg 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Balmaseda.jpg 1284w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items2352_079e1c-5e kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list">
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_4c7b3a-92"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Batzoki Balmaseda</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_0de69e-4d"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Lunes 18 de Noviembre</span></li>
-
-
-
-<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-2352_62de74-66"><span class="kb-svg-icon-wrap kb-svg-icon-fe_checkCircle kt-svg-icon-list-single"><svg viewBox="0 0 24 24"  fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg"  aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span><span class="kt-svg-icon-list-text">Cuesta Kalea, 12, 48800 Balmaseda, Bizkaia<br>Google Maps https://g.co/kgs/DdkDMZT</span></li>
-</ul></div>
-
-
-
-<h2 class="wp-block-heading">Calendario</h2>
-
-
-
-<embed type="text/html" src="https://outlook.live.com/calendar/0/published/00000000-0000-0000-0000-000000000000/0f92482f-3228-4bf6-bade-e580298e05e9/cid-41306E06540323E3/calendar.html/"  width="1000" height="800">
-
-
-
-<p></p><p>The post <a href="https://salinas-armendariz.com/charlas-informativas/">Charlas informativas</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
+<figure class="wp-block-pullquote"><blockquote><p>Aldapan gora<br>Mendian gora, burua galtzen dut maiz<br>herriko kaletan sarritan galdu izan naiz<br>Nork bereizi zituen kultura, lurra sua ta ura?<br>Gizakion arteko lotura, ere ez al da natura?<br>Aldapan gora, pausorik pauso<br>aldapan behera, auzorik auzo<br>gaztainondo ta pago<br>eskultura arraro,<br>kaleak edo mendiak, zerk galtzen gaitu gehiago?<br>Berriro galduta, gabiltza, hau da hau marka<br>Ezin da ulertu, aurrean, daukagun mapa<br>Euskaldun peto peto, bai baina, ardi galduen pare<br>nahiago det ibili, halare, norabiderik gabe<br>Aldapan gora, pausorik pauso<br>aldapan behera, auzorik auzo<br>gaztainondo ta pago<br>eskultura arraro,<br>kaleak edo mendiak, zerk galtzen gaitu gehiago?</p><cite>Aldapan gora<br></cite></blockquote></figure><p>The post <a href="https://salinas-armendariz.com/aldapan-gora/">Aldapan Gora</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
 		
 			</entry>
 		<entry>
@@ -262,14 +75,14 @@
 		<link rel="alternate" type="text/html" href="https://salinas-armendariz.com/debate/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=debate" />
 
 		<id>https://salinas-armendariz.com/?p=2347</id>
-		<updated>2024-11-08T05:47:33Z</updated>
+		<updated>2024-11-11T15:14:05Z</updated>
 		<published>2024-11-07T20:34:40Z</published>
 		<category scheme="https://salinas-armendariz.com/" term="Video" />
 		<summary type="html"><![CDATA[<p>Me gustaria celebrar un debate</p>
 <p>The post <a href="https://salinas-armendariz.com/debate/">Debate</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></summary>
 
 					<content type="html" xml:base="https://salinas-armendariz.com/debate/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=debate"><![CDATA[<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="David Salinas-Armendariz: debate" width="720" height="405" src="https://www.youtube.com/embed/Zs2u2mXSsA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe title="David Salinas-Armendariz: debate" width="720" height="405" src="https://www.youtube.com/embed/Zs2u2mXSsA8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Me gustaría un debate</figcaption></figure>
 
 
@@ -323,7 +136,7 @@
 
 
 
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="400" height="464" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1.jpg" alt="david salinas armendariz charla" class="wp-image-2239 size-full" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1.jpg 400w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1-259x300.jpg 259w" sizes="(max-width: 400px) 100vw, 400px" /></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="400" height="464" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1.jpg" alt="david salinas armendariz charla" class="wp-image-2239 size-full" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1.jpg 400w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-400x464-1-259x300.jpg 259w" sizes="auto, (max-width: 400px) 100vw, 400px" /></figure><div class="wp-block-media-text__content">
 <p>El pasado jueves tuvo lugar en el Colegio de Abogados de Bizkaia una mesa redonda sobre Naciones sin Estado en el deporte, en la que se trató sobre la situación actual de la oficialidad internacional de las selecciones vascas. Agradeciendo la amable invitación del Colegio, tuve ocasión de participar sobre el contenido de las Leyes del Deporte, tanto la española como la vasca, en esta materia.</p>
 </div></div>
 
@@ -348,7 +161,7 @@
 <p>(Publicado en el Correo 13 de octubre)</p>
 
 
-<div class="kb-gallery-wrap-id-2237_b45a17-a0 alignnone wp-block-kadence-advancedgallery"><ul class="kb-gallery-ul kb-gallery-non-static kb-gallery-type-masonry kb-masonry-init kb-gallery-id-2237_b45a17-a0 kb-gallery-caption-style-bottom-hover kb-gallery-filter-none" data-image-filter="none" data-item-selector=".kadence-blocks-gallery-item" data-lightbox-caption="true" data-columns-xxl="3" data-columns-xl="3" data-columns-md="3" data-columns-sm="2" data-columns-xs="1" data-columns-ss="1"><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" data-id="2240" class="wp-image-2240" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></div></div></figure></div></li><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" data-id="2241" class="wp-image-2241" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></div></div></figure></div></li><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" data-id="2242" class="wp-image-2242" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></div></div></figure></div></li></ul></div><p>The post <a href="https://salinas-armendariz.com/leyes-del-deporte-incumplidas/">Leyes del Deporte Incumplidas</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
+<div class="kb-gallery-wrap-id-2237_b45a17-a0 alignnone wp-block-kadence-advancedgallery"><ul class="kb-gallery-ul kb-gallery-non-static kb-gallery-type-masonry kb-masonry-init kb-gallery-id-2237_b45a17-a0 kb-gallery-caption-style-bottom-hover kb-gallery-filter-none" data-image-filter="none" data-item-selector=".kadence-blocks-gallery-item" data-lightbox-caption="true" data-columns-xxl="3" data-columns-xl="3" data-columns-md="3" data-columns-sm="2" data-columns-xs="1" data-columns-ss="1"><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg" data-id="2240" class="wp-image-2240" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-1-300x225.jpg 300w" sizes="auto, (max-width: 320px) 100vw, 320px" /></div></div></figure></div></li><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg" data-id="2241" class="wp-image-2241" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-2-300x225.jpg 300w" sizes="auto, (max-width: 320px) 100vw, 320px" /></div></div></figure></div></li><li class="kadence-blocks-gallery-item"><div class="kadence-blocks-gallery-item-inner"><figure class="kb-gallery-figure kadence-blocks-gallery-item-hide-caption" "><div class="kb-gal-image-radius" style="max-width:320px;"><div class="kb-gallery-image-contain kadence-blocks-gallery-intrinsic" style="padding-bottom:75%;"><img loading="lazy" decoding="async" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" width="320" height="240" alt="" data-full-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" data-light-image="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg" data-id="2242" class="wp-image-2242" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3.jpg 320w, https://salinas-armendariz.com/wp-content/uploads/2024/11/image-320x240-3-300x225.jpg 300w" sizes="auto, (max-width: 320px) 100vw, 320px" /></div></div></figure></div></li></ul></div><p>The post <a href="https://salinas-armendariz.com/leyes-del-deporte-incumplidas/">Leyes del Deporte Incumplidas</a> first appeared on <a href="https://salinas-armendariz.com/">David Salinas-Armendariz</a>.</p>]]></content>
 		
 			</entry>
 		<entry>
@@ -375,7 +188,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="480" height="515" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak.png" alt="" class="wp-image-2216" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak.png 480w, https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak-280x300.png 280w" sizes="(max-width: 480px) 100vw, 480px" /></figure></div>
+<figure class="aligncenter size-full"><img loading="lazy" decoding="async" width="480" height="515" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak.png" alt="" class="wp-image-2216" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak.png 480w, https://salinas-armendariz.com/wp-content/uploads/2024/11/europako-hauteskundeak-280x300.png 280w" sizes="auto, (max-width: 480px) 100vw, 480px" /></figure></div>
 
 
 <p>El Partido Nacionalista Vasco ya convocó el Aberri Eguna de 1933 con el lema “Euzkadi-Europa”, en tiempos en los que tal idea se reducía a ámbitos académicos, lo que se confirmaría en el emprendimiento posterior por nuestros representantes, liderados por Jose Antonio Agirre, de gran número de relaciones, desde la formación de la Liga Internacional de Amigos de los Vascos hasta los vínculos de todo tipo con partidos políticos, gobiernos democráticos e instituciones europeas emergentes.</p>
@@ -513,7 +326,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="228" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1024x228.png" alt="" class="wp-image-2231" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1024x228.png 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-300x67.png 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-768x171.png 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1536x342.png 1536w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="228" src="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1024x228.png" alt="" class="wp-image-2231" srcset="https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1024x228.png 1024w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-300x67.png 300w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-768x171.png 768w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_-1536x342.png 1536w, https://salinas-armendariz.com/wp-content/uploads/2024/11/Gu_ere_bai_-_bertsio_beltza.svg_.png 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
