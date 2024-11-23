@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/23/2024 a las 8:50 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.4.2 dinámicamente el 11/23/2024 a las 10:48 pm - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="https://salinas-armendariz.com/default-sitemap.xsl?sitemap=post"?>
 <urlset
@@ -15,9 +15,15 @@
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/bizkaiko-alderdikide-guztiei/]]></loc>
-		<lastmod><![CDATA[2024-11-23T19:49:09+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-11-23T20:47:51+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/Eskerrik-asko-david.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[https://salinas-armendariz.com/wp-content/uploads/2024/11/cropped-favicon_david_salinas_armendariz-removebg-preview.png]]></image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[https://salinas-armendariz.com/eu/eredua/]]></loc>
